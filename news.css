@@ -7,7 +7,7 @@ html {
     margin: 0;
     background-color: #ffffff;
     display: grid;
-    font-family: 'M+PLUS+Rounded+1c', sans-serif;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
     font-size: 20px;
     font-weight: 700;
     height: 100vh;
@@ -104,4 +104,6 @@ html {
     text-align: center;
     color: #ffffff;
     background-color: #004f6c;
+    font-family: 'BIZ UDPMincho', serif;
+    padding: 10px;
   }
