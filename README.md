@@ -1,1 +1,1 @@
-# school.co.jp
+# school.ed.jp
