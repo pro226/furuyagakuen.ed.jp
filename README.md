@@ -1,1 +1,1 @@
-# school.ed.jp
+# furuyagakuen.ed.jp
