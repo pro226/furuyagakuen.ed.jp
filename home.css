@@ -80,10 +80,10 @@ header {
   border: 2px solid #cccccc;
   color: #ffffff;
   font-size: 20px;
-  width: 150px;
-  text-align: center;
+  width: 140px;
   padding: 0px 20px;
   display: flex;
+  text-align: center;
   align-items: center;
 }
 
@@ -94,7 +94,7 @@ header {
   border-bottom: 2px solid #cccccc;
   color: #000000;
   font-size: 20px;
-  width: calc(100% - 238px);
+  width: calc(100% - 228px);
   text-align: left;
   padding: 0px 20px;
 }
