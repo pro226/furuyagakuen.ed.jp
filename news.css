@@ -94,6 +94,15 @@ table td p{
   font-family: 'BIZ UDPMincho', serif;
 }
 
+table a {
+  text-decoration: none;
+  color: #0e5d91;
+}
+
+table a:hover {
+  text-decoration: underline;
+}
+
 footer {
   margin-top: 50px;
   font-size: 15px;
