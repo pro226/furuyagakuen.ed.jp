@@ -84,6 +84,7 @@ header {
   padding: 0px 20px;
   display: flex;
   text-align: center;
+  vertical-align: middle;
   align-items: center;
 }
 
@@ -101,14 +102,13 @@ header {
 
 .kikikuru {
   margin: 50px;
+  height: auto;
 }
 
 .kikikuru p {
   font-size: 20px;
   padding: 20px;
-  height: 30px;
   font-family: 'Noto Serif JP', serif;
-  margin-bottom: 600px;
 }
 
 footer {
