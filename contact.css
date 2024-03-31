@@ -58,6 +58,12 @@ nav a {
   font-size: 18px;
   text-align: center;
 }
+
+nav a img {
+  width: 30px;
+  display: flex;
+  align-items: center;
+}
   
 nav a:hover {
   color: #ffffff;
