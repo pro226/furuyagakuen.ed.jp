@@ -73,6 +73,7 @@ header {
 .topic {
   margin: 50px;
   display: flex;
+  justify-content: center;
 }
 
 .left {
@@ -80,11 +81,10 @@ header {
   border: 2px solid #cccccc;
   color: #ffffff;
   font-size: 20px;
-  width: 140px;
+  width: 150px;
   padding: 0px 20px;
   display: flex;
-  text-align: center;
-  vertical-align: middle;
+  justify-content: center;
   align-items: center;
 }
 
@@ -95,7 +95,7 @@ header {
   border-bottom: 2px solid #cccccc;
   color: #000000;
   font-size: 20px;
-  width: calc(100% - 228px);
+  width: calc(100% - 336px);
   text-align: left;
   padding: 0px 20px;
 }
